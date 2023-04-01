@@ -5,13 +5,13 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(#6157ff, #ee49fd);
+  background-color: #2f2e2a;
 }
 /* Squares */
 .squares {
   width: 150px;
   height: 150px;
-  border: 2px solid #000;
+  border: 2px solid #fddd03;
   border-radius: 10px;
   position: relative;
 }
@@ -34,5 +34,5 @@ body {
 }
 /* JS Style */
 .hover {
-  border: 2px dashed #000;
+  border: 2px dashed #fddd03;
 }
